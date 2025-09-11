@@ -1,0 +1,28 @@
+# Core
+streamlit
+requests
+beautifulsoup4
+trafilatura
+PyPDF2
+
+# LangChain + ecosystem
+langchain
+langchain-community
+langchain-huggingface
+langchain-openai
+faiss-cpu
+rank-bm25
+
+# Embeddings + models
+sentence-transformers
+transformers[torch]
+torch
+torchvision
+torchaudio
+huggingface-hub
+
+# Utils
+pandas
+numpy
+lxml>=5.2.1
+lxml_html_clean
